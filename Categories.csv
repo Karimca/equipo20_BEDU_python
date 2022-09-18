@@ -1,0 +1,34 @@
+No,Category,Cause,Causa
+6,accidentes,Drowning,Ahogo
+4,accidentes,"Fire, heat, and hot substances","Fuego, calor y sustancias calientes."
+23,accidentes,Poisonings,envenenamientos
+11,accidentes,Road injuries,Lesiones en la carretera
+19,alimentacion,Nutritional deficiencies,Deficiencias nutricionales
+24,alimentacion,Protein-energy malnutrition,Desnutricion proteico-energetica
+18,clima,Environmental heat and cold exposure,Exposicion al calor y al frio ambiental
+16,clima,Exposure to forces of nature,Exposicion a las fuerzas de la naturaleza.
+15,drogas,Alcohol use disorders,Trastornos por consumo de alcohol
+9,drogas,Drug use disorders,Trastornos por consumo de drogas
+31,enfermedad,Acute hepatitis,Hepatitis aguda
+32,enfermedad,Alzheimer's disease and other dementias,Enfermedad de Alzheimer y otras demencias
+26,enfermedad,Cardiovascular diseases,Enfermedades cardiovasculares
+27,enfermedad,Chronic kidney disease,enfermedad renal cronica
+28,enfermedad,Chronic respiratory diseases,enfermedades respiratorias cronicas
+29,enfermedad,Cirrhosis and other chronic liver diseases,Cirrosis y otras enfermedades cronicas del higado
+22,enfermedad,Diabetes mellitus,Diabetes mellitus
+17,enfermedad,Diarrheal diseases,enfermedades diarreicas
+30,enfermedad,Digestive diseases,Enfermedades digestivas
+8,enfermedad,HIV/AIDS,VIH/SIDA
+13,enfermedad,Lower respiratory infections,Infecciones respiratorias bajas
+5,enfermedad,Malaria,Malaria
+12,enfermedad,Maternal disorders,Trastornos maternos
+2,enfermedad,Meningitis,Meningitis
+14,enfermedad,Neonatal disorders,Trastornos neonatales
+3,enfermedad,Neoplasms,Neoplasias
+33,enfermedad,Parkinson's disease,enfermedad de Parkinson
+10,enfermedad,Tuberculosis,Tuberculosis
+21,violencia,Conflict and terrorism,Conflicto y terrorismo
+7,violencia,Interpersonal violence,Violencia interpersonal
+1,violencia,Number of executions (Amnesty International),Numero de ejecuciones (Amnistia Internacional)
+20,violencia,Self-harm,Autolesiones
+25,violencia,Terrorism (deaths),Terrorismo (muertes)
